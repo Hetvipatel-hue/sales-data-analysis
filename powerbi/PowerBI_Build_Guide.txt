@@ -1,0 +1,23 @@
+POWER BI QUICK BUILD GUIDE
+
+1. Import data/sales_data.csv using Get Data > Text/CSV.
+2. Rename imported table to Sales.
+3. Check data types:
+   - Order Date: Date
+   - Quantity: Whole Number
+   - Discount: Decimal Number (format as Percentage)
+   - Unit Price, Sales, Cost, Profit: Decimal Number
+4. Create the Date table and DAX measures in DAX_Measures.txt.
+5. Create relationship Date[Date] -> Sales[Order Date].
+6. Add visuals:
+   - Card: Total Sales
+   - Card: Total Profit
+   - Card: Total Orders
+   - Card: Profit Margin
+   - Line chart: Date[Year-Month] and Total Sales
+   - Clustered bar: Category and Total Sales
+   - Bar chart: Region and Total Profit
+   - Donut: Customer Segment and Total Sales
+   - Slicers: Year, Region, Category, Sales Channel
+7. Save as Sales_Dashboard.pbix.
+8. Export a screenshot to powerbi/dashboard_screenshot.png.
