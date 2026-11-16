@@ -73,8 +73,3 @@ Data cleaning and validation, Excel analysis, KPI reporting, data visualization,
 ## How to Run
 Download or clone this repository, open the Excel workbook, and import the CSV into Power BI Desktop.
 
-## Resume Bullet
-**Sales Data Analysis | Excel, Power BI**
-- Analyzed 1,200 synthetic sales transactions using Excel and Power BI to evaluate revenue, profitability, product performance, and regional trends.
-- Developed KPI measures including Total Sales, Total Profit, Average Order Value, and Profit Margin using DAX.
-- Designed an interactive dashboard with monthly trends, category comparisons, regional analysis, and slicers to support data-driven insights.
