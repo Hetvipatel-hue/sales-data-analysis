@@ -1,4 +1,4 @@
-Sales Data Analysis | Excel & Power BI
+#Sales Data Analysis | Excel & Power BI
 Project Overview
 An end-to-end sales analytics portfolio project using a synthetic retail sales dataset. The project demonstrates data preparation, KPI analysis, trend analysis, and dashboard design using Microsoft Excel and Power BI.
 Business Questions
